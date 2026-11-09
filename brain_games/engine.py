@@ -24,7 +24,10 @@ def run_game(func, count_correct = 1, name = ''):
         else:
             print(f"{part_result}\nLet's try again,{name}")
     else:
-        print(f'Congratulations, {name}!')  
+        if part_result == 'Correct!':
+            print(f'Congratulations, {name}!')
+        else:
+            print(f"{part_result}\nLet's try again,{name}")  
         
 
     
