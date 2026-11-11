@@ -9,7 +9,7 @@ def part_game(func_gen):
     if user_answer == str(gen_answer):
         return 'Correct!'
     else:
-        return f'{user_answer} is wrong answer ;(. Correct answer was {str(gen_answer)}'
+        return f'{user_answer} is wrong answer ;(. Correct answer was {gen_answer}'
 
 
 
