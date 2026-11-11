@@ -1,19 +1,16 @@
 import random
 
 
-def test_even(result: str = '', value: int = None) ->str:
-    if not value:
-        value = random.randint(1,100)
-        return value
+def gen_even():
+    gen_quest = random.randint(1,100)
+    if gen_quest % 2 == 0:
+        gen_answer = 'yes'
     else:
-        if value % 2 == 0 and result == 'yes':
-            return None
-        elif value % 2 == 0 and result == 'no':
-            return 'yes'
-        elif value % 2 != 0 and result == 'yes':
-            return 'no'
-        elif value % 2 != 0 and result == 'no':   
-            return None
+        gen_answer = 'no'
+    return gen_quest, gen_answer
+    
+    
+    
         
 
 

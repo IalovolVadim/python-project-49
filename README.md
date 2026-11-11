@@ -36,3 +36,5 @@ cd python-project-49
 ## О Хекслете
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+
+[![asciicast](https://asciinema.org/a/I5sBCuxJXXN8wmKy.svg)](https://asciinema.org/a/I5sBCuxJXXN8wmKy)
