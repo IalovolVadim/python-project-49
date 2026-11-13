@@ -44,7 +44,7 @@ cd python-project-49
 [![asciicast](https://asciinema.org/a/ly2Z6oVRnVVmBzAD.svg)](https://asciinema.org/a/ly2Z6oVRnVVmBzAD)
 
 # Запись brain-gcd
-[![asciicast](https://asciinema.org/a/Em77ISCg8iY6W4fR.svg)]( https://asciinema.org/a/Em77ISCg8iY6W4fR)
+[![asciicast](https://asciinema.org/a/Em77ISCg8iY6W4fR.svg)](https://asciinema.org/a/Em77ISCg8iY6W4fR)
 
 # Запись brain-progression
 [![asciicast](https://asciinema.org/a/UAOA8vCU1RJXlEyi.svg)](https://asciinema.org/a/UAOA8vCU1RJXlEyi)
