@@ -1,11 +1,13 @@
-import random 
+import random
+
+LOW_BOARD = 1
+UP_BOARD = 100
 
 
 def gen_calc():
-    num_one = random.randint(1,100)
-    num_two = random.randint(1,100)
+    num_one = random.randint(LOW_BOARD,UP_BOARD)
+    num_two = random.randint(LOW_BOARD,UP_BOARD)
     sign = random.choice('+-*')
-    gen_quest, gen_answ = ('', 0)
     match sign:
         case '+':
             gen_quest = str(num_one) + ' + ' + str(num_two)

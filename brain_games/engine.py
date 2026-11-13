@@ -1,6 +1,7 @@
-from brain_games.cli import welcome_user
+
 import prompt
-import random
+
+from brain_games.cli import welcome_user
 
 
 def part_game(func_gen): 

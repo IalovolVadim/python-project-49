@@ -37,5 +37,17 @@ cd python-project-49
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
 
+# Запись brain-even
 [![asciicast](https://asciinema.org/a/I5sBCuxJXXN8wmKy.svg)](https://asciinema.org/a/I5sBCuxJXXN8wmKy)
+
+# Запись brain-calc
 [![asciicast](https://asciinema.org/a/ly2Z6oVRnVVmBzAD.svg)](https://asciinema.org/a/ly2Z6oVRnVVmBzAD)
+
+# Запись brain-gcd
+[![asciicast](https://asciinema.org/a/Em77ISCg8iY6W4fR.svg)]( https://asciinema.org/a/Em77ISCg8iY6W4fR)
+
+# Запись brain-progression
+[![asciicast](https://asciinema.org/a/UAOA8vCU1RJXlEyi.svg)](https://asciinema.org/a/UAOA8vCU1RJXlEyi)
+
+# Запись brain-prime
+[![asciicast](https://asciinema.org/a/AUIrgD5xvMSZLPYy.svg)](https://asciinema.org/a/AUIrgD5xvMSZLPYy)
